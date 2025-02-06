@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Give em both a cape",
+    "file": "samples/Give_em_both_a_cape_(FS1).wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": "0.011"
+  }
+]
