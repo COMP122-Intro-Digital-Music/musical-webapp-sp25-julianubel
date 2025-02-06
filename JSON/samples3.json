@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Web App Beat 1",
+    "file": "samples/Web_App_%231_Beat.wav",
+    "bpm": "140",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
