@@ -1,0 +1,34 @@
+[
+  {
+    "name": "First.Sequence",
+    "loop": "2:3:0.1",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:2.6",
+        "pitch": "Db4",
+        "dur": "16n.",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.3",
+        "pitch": "Ab4",
+        "dur": "8n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 2",
+    "loop": "1:0:3",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:3:3.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
