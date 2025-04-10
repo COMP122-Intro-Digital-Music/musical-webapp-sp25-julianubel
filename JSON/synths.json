@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "name": "Procrastination",
+    "type": "Synth",
+    "settings": {
+      "volume": -19.999999999999996,
+      "detune": -514,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.015",
+        "attackCurve": "cosine",
+        "decay": "0.125",
+        "decayCurve": "linear",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "sawtooth"
+      }
+    }
+  },
+  {
+    "name": "Tattoos ",
+    "type": "Synth",
+    "settings": {
+      "volume": -35.99999999999999,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "sine",
+        "decay": "7",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "cosine",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "sine"
+      }
+    }
+  },
+  {
+    "name": "ARRGH",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "bounce",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "bounce",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  }
+]
